@@ -14,7 +14,6 @@ mov ch,0
 mov di,cx
 
 
-
 CALL newline1
 CALL newline1
 
