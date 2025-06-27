@@ -14,7 +14,6 @@ CALL newline1
 CALL newline1
 
 
-
 mov ah,9
 lea dx,mg2
 int 21h
