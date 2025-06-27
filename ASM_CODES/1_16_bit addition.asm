@@ -20,5 +20,4 @@ zero:  int 21h
 loop print
            
            
-
 hlt
