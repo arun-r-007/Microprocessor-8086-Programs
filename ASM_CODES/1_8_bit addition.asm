@@ -18,7 +18,6 @@ print: mov ah, 2
 zero:  int 21h
        shl bx, 1
 loop print
-      
-                   
 
+                   
 hlt
