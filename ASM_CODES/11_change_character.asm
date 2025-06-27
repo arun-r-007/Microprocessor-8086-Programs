@@ -3,6 +3,7 @@ org 100h
 call newline1
 call newline1
 
+
 mov ah, 9
 lea dx, mg1
 int 21h
