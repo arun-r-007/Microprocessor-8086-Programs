@@ -5,6 +5,7 @@ lea dx,mg1
 int 21h  
 
 
+
 mov ah, 10         
 lea dx, msg      
 int 21h
