@@ -1,0 +1,56 @@
+1.	Write ALP programs using 8086 instructions to perform:
+        •	addition of two 8-bit numbers
+        •	addition of two 16-bit numbers
+
+
+2.	Write an 8086 ALP program to add two one-digit decimal numbers. 
+    Input the numbers during run time and generate the one-digit arithmetic output on the emulator screen.
+
+
+3.	Write an 8086 ALP program to add two two-digit decimal numbers. 
+    Input the numbers during run time and generate more than two-digit arithmetic output on the emulator screen.
+
+
+4.	Write an 8086 ALP program to subtract N set of decimal numbers. Input the numbers during run time.
+    Generate and display the count 0 output on the emulator screen.
+
+
+5.	Write a program to find the occurrence(s) of two different characters in a given string.
+    Example string “Hi how are you”.  Find the occurrences of ‘h’ and ‘o’ in the string.
+
+
+6.	Read a string from the keyboard and find whether the input string is a palindrome or not.
+
+
+7.	Read a byte from the keyboard as input. 
+    Write a code to count the number of 1’s and 0’s in the byte.  Display the output on the emulator screen.
+
+
+8.	Write an ALP code to find the largest number and smallest number in a given array. 
+    Read the input array of numbers during run time and display the output on the emulator screen.
+
+
+9.	Create an odd sized array and write a code to find the middle value of the given set of numbers.
+
+
+10.	Write an alp program to sort the given numbers in 
+        1) ascending order
+        2) descending order.
+
+
+11.	Input a string from keyboard and replace any two characters of the string with symbols * and #.
+    Display the transformed string in terms of replacement as well as skipped.  Also display the final * count value and # count value.
+
+        Example:
+            Input string:   how are you
+            Characters a and o to be replaced by * and # correspondingly.
+            After execution, the output on screen should be as follows:
+            h#w *re y#u
+            Hw re yu
+            * count value - 1
+            #  count - 2
+
+
+12.	“Transfer  a string”
+    Task Objective:  Write a logic to transfer a sting from a memory block to a new location.
+
