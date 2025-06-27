@@ -4,7 +4,7 @@ mov ah,9
 lea dx,mg1
 int 21h
  
- 
+
 mov ah,1
 int 21h
 sub al, '0'
