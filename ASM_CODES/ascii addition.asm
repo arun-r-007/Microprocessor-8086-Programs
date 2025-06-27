@@ -1,6 +1,5 @@
 org 100h   
 
-
 mov ah, 09h
 lea dx, m1
 int 21h
