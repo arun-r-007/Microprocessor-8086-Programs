@@ -51,7 +51,7 @@ This repository contains a collection of practice programs written in 8086 Assem
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<username>/8086-practice-programs.git
+   https://github.com/arun-r-007/Microprocessor-8086-Programs.git
    ```
 2. Open the `.asm` file in your preferred editor.
 3. Assemble and link:
